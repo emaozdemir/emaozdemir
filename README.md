@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sema 
-- 👀 I’m interested in python
 - 🌱 I’m currently learning java
 - 📫 How to reach me semaozdemiraslan@gmail.com
 
